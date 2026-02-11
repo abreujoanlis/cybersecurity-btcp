@@ -1,0 +1,24 @@
+en el cmd, ejecuta este comandos para ver la version de python instalada: -> python --version
+
+nota: extension de los archivos de python: -> .py
+
+instrucciones a seguir (cmd):
+1. cd desktop
+2. mkdir [tunombre]-python
+3. cd [tunombre]-python
+4. type nul > fundamentos.py
+5. notepad fundamentos.py
+
+Fundamentos de programacion (general):
+ 0. comentarios (uni y multilineas)
+ 1. entradas de datos
+ 2. salida de datos
+ 3. procesamiento de datos
+ 4. almacenamiento temporar de datos
+	variables y constantes
+ 5. almacenamiento persistente de datos
+ 6. conexion de datos
+ 7. estructuras de decision
+ 8. estructuras de repeticion
+ 9. estructuras de control de errores
+10. funciones
