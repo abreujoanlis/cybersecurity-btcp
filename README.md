@@ -1,58 +1,45 @@
-Utilidad 
-
-Verificar si tienes conexión a internet
-	•	El comando ping 8.8.8.8 (servidor de Google) sirve como prueba directa.
-	•	Si responde → tienes internet
-	•	Si no responde → problema de red (router, ISP, cable, etc.)
+Gracias por ingresas a mi Github.
 
 
-Obtener tu configuración de red
-	•	ipconfig muestra:
-	•	Dirección IP
-	•	Puerta de enlace (gateway)
-	•	DNS
+👨‍💻 Joanlis Abreu Rodríguez
+🔐 Especialista en Ciberseguridad
+
+Soy un especialista en ciberseguridad enfocado en la protección de sistemas, análisis de vulnerabilidades y defensa de infraestructuras digitales.
 
 
-Ver conexiones y puertos activos
-	•	netstat -a lista:
-	•	Conexiones activas
-	•	Puertos abiertos
-	•	Servicios en escucha
+🚀 Sobre mí
+Soy un profesional apasionado por la seguridad informática, con experiencia en la identificación, análisis y mitigación de amenazas. Me enfoco en mantener sistemas seguros, detectar vulnerabilidades y fortalecer redes ante posibles ataques.
 
 
-Ahorro de tiempo (automatización)
-En lugar de escribir 3 comandos manualmente:
-	•	Ejecutas 1 solo archivo
-	•	Obtienes todo el diagnóstico de una vez
+🔎 Mentalidad analítica y orientada a la seguridad ofensiva y defensiva
 
-Generar evidencia o reportes
-Si usas la versión con .txt:
-	•	Guarda resultados automáticamente
-	•	Puedes enviarlo por WhatsApp, correo o soporte técnico
+🛡️ Enfoque en protección de redes y sistemas
+
+⚡ Interés constante en nuevas amenazas y tecnologías
+
+🧠 Áreas de Especialización
+
+🔐 Seguridad de redes
+
+🕵️ Análisis de vulnerabilidades
+
+💻 Pentesting (Pruebas de penetración)
+
+🧩 Hardening de sistemas
+
+📡 Monitoreo y detección de intrusos
+
+🛠️ Automatización con scripts (Batch, Bash)
+
+🛠️ Tecnologías y Herramientas
+Sistemas Operativos: Windows, MacOs, Linux (Kali Linux)
+Herramientas: Nmap, Wireshark, Metasploit...
+
+📈 Objetivo Profesional
+Seguir creciendo como profesional en ciberseguridad, especializándome en áreas como:
+Ethical Hacking
+Análisis forense digital
 
 
-
-
-
-
-@echo off
-echo ==============================
-echo INFORME DE RED
-echo ==============================
-
-echo.
-echo [1] CONFIGURACION IP:
-ipconfig
-
-echo.
-echo [2] PRUEBA DE CONECTIVIDAD (PING 8.8.8.8):
-ping 8.8.8.8
-
-echo.
-echo [3] CONEXIONES ACTIVAS (NETSTAT):
-netstat -a
-
-echo.
-echo ==============================
-echo FIN DEL INFORME
-pause
+⚡ Frase Profesional
+“La seguridad no es un producto, es un proceso.”
