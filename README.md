@@ -25,8 +25,6 @@ Soy un profesional apasionado por la seguridad informática, con experiencia en 
 
 💻 Pentesting (Pruebas de penetración)
 
-🧩 Hardening de sistemas
-
 📡 Monitoreo y detección de intrusos
 
 🛠️ Automatización con scripts (Batch, Bash)
