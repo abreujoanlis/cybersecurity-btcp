@@ -1,4 +1,4 @@
-Gracias por ingresas a mi Github.
+Gracias por ingresar a mi Github.
 
 
 👨‍💻 Joanlis Abreu Rodríguez
